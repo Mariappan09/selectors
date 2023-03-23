@@ -1,0 +1,43 @@
+ul{
+	
+	background-color:none;
+	list-style-type:none;
+}
+.head{
+	display:flex;
+	width:100%;
+	height:90px;
+	border:1px solid black;
+	font-size:25px;
+}
+li{
+	display:inline;
+	
+}
+li a{
+	text-decoration:none;
+	color:black;
+	font-size:20px;
+	padding:16px;
+	text-align:center;
+	
+}
+button .b{
+	text-decoration:none;
+	background-color:red;
+	font-size:20px;
+}
+li a:hover{
+	background-color:pink;
+	color:blue;
+}
+body{
+	background-color:lightgreen;
+}
+.body{
+	display:flex;
+	position:relative;
+	margin-left:40px;
+	border:1px solid black;
+	font-size:30px;
+}
